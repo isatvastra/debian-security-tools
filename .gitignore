@@ -1,0 +1,14 @@
+# Backup files
+*.backup
+*.bak
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Personal configs (if any)
+config.local
